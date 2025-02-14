@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Front-end**
 
-- 📫 How to reach me **mlahrech123@gmail.com**
+- 📫 How to reach me **mouhcin.lahrech.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
