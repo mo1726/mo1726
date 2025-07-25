@@ -2,69 +2,60 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo1726&theme=radical&show_icons=true)
 
-<h3 align="center">💻 Full Stack Developer | DevOps | Freelancer from Morocco 🇲🇦</h3>
+<h3 align="center">💻 Full Stack & DevOps Developer from Morocco</h3>
+
+- 🔭 I’m currently working on:
+  - **ElitFit Platform**: Gym Management with Java + React
+  - **Truck Expense Tracker**: Full stack web for logistics
+  - **Bloom Cosmetic Shop**: PHP + MySQL e-commerce
+
+- 🌱 Currently learning:
+  - **Advanced React**, **Spring Security**, **DevOps tools (Docker, CI/CD)**
+
+- 🧠 Interests: Web Apps, SaaS, AI Tools, Clean Code & Automation
+
+- 📫 Reach me at: **mouhcin.lahrech.dev@gmail.com**
 
 ---
 
-### 🧠 About Me
+### 📌 Featured Projects
 
-- 🎓 **Licence Professionnelle** in Full Stack & DevOps Development
-- 🔭 Currently working on:
-  - [Bloom Cosmetic E-commerce](https://github.com/mo1726/bloom-cosmetic-ecommerce) 💄 (PHP, MySQL, Bootstrap)
-  - [ElitFit Platform](https://github.com/mo1726/elitfit-platform) 🏋️‍♂️ (Spring Boot, React, MySQL)
-  - [Truck Expense Manager](https://github.com/mo1726/truck-expense-manager) 🚚 (Spring Boot, React, ChartJS)
-- 🚀 Preparing to continue studies in **Cyprus 🇨🇾** (Master Degree in Computer Science or AI)
-- 🌱 Currently learning: **React Native**, **Docker**, and **Tailwind CSS**
-- 💬 Ask me about anything related to:
-  - Frontend (React.js, HTML/CSS/JS)
-  - Backend (Java Spring Boot, PHP, MySQL)
-  - DevOps basics (GitHub, CI/CD)
+| Project | Description | Tech |
+|--------|-------------|------|
+| 🛍️ [Bloom Cosmetic](https://github.com/mo1726/bloom-cosmetic-ecommerce) | E-commerce site for cosmetic products | PHP, MySQL |
+| 🏋️ [ElitFit](https://github.com/mo1726/elitfit-platform) | Gym management platform with roles and stats | React, Spring Boot, JWT |
+| 🚛 Truck Web Tracker *(soon)* | Expense tracker for transport companies | Java, React, REST API |
 
 ---
 
-### 🔗 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/mouhcin-lahrech-425a8424b)](https://linkedin.com/in/mouhcin-lahrech-425a8424b)
-[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=instagram&link=https://instagram.com/moh-sin-xd)](https://instagram.com/moh-sin-xd)
-[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@momonft)](https://youtube.com/@momonft)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/mo1726)](https://github.com/mo1726)
-
-📫 **Email:** mouhcin.lahrech.dev@gmail.com
-
----
-
-### 🛠️ Technologies & Tools
+### 🧰 Tools & Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
 
 ---
 
-### 📦 Projects
+### 📊 GitHub Stats
 
-| Project | Stack | Description |
-|--------|--------|-------------|
-| **[Bloom Cosmetic](https://github.com/mo1726/bloom-cosmetic-ecommerce)** | PHP + MySQL | Full e-commerce website with admin dashboard & coupon system |
-| **[ElitFit Platform](https://github.com/mo1726/elitfit-platform)** | React + Spring Boot + MySQL | Gym management app with admin, coach & member dashboards |
-| **[Truck Expense Manager](https://github.com/mo1726/truck-expense-manager)** | Java + React | Dashboard for tracking truck-related transactions, analytics, and filters |
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo1726&layout=compact&theme=radical)
 
 ---
 
-### 📊 GitHub Activity
+### 🔗 Connect with me:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo1726&layout=compact&theme=radical)](https://github.com/mo1726)
+[![LinkedIn](https://img.shields.io/badge/Mouhcin%20Lahrech-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhcin-lahrech-425a8424b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/mo1726)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/moh-sin-xd)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/c/momonft)
 
 ---
 
-⏳ *Last updated: July 2025*
+> 💡 Keep Building | Keep Learning | Keep Growing 💪
