@@ -1,33 +1,70 @@
-# Hi there, I'm Mohsin lahrech 👋 
+# 👋 Hi there, I'm Mouhcin Lahrech
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mo1726&theme=radical&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mo1726&theme=radical&show_icons=true)
 
-<h3 align="center">Full-stack developer from Morocco</h3>
+<h3 align="center">💻 Full Stack Developer | DevOps | Freelancer from Morocco 🇲🇦</h3>
 
-- 🔭 I’m currently working on **Platfom Delevry In All Morocco**
+---
 
-- 🌱 I’m currently learning **react.js**
+### 🧠 About Me
 
-- 👯 I’m looking to collaborate on **Mark Zuckerberg**
+- 🎓 **Licence Professionnelle** in Full Stack & DevOps Development
+- 🔭 Currently working on:
+  - [Bloom Cosmetic E-commerce](https://github.com/mo1726/bloom-cosmetic-ecommerce) 💄 (PHP, MySQL, Bootstrap)
+  - [ElitFit Platform](https://github.com/mo1726/elitfit-platform) 🏋️‍♂️ (Spring Boot, React, MySQL)
+  - [Truck Expense Manager](https://github.com/mo1726/truck-expense-manager) 🚚 (Spring Boot, React, ChartJS)
+- 🚀 Preparing to continue studies in **Cyprus 🇨🇾** (Master Degree in Computer Science or AI)
+- 🌱 Currently learning: **React Native**, **Docker**, and **Tailwind CSS**
+- 💬 Ask me about anything related to:
+  - Frontend (React.js, HTML/CSS/JS)
+  - Backend (Java Spring Boot, PHP, MySQL)
+  - DevOps basics (GitHub, CI/CD)
 
-- 🤝 I’m looking for help with **Back-end**
+---
 
-- 💬 Ask me about **Front-end**
+### 🔗 Connect With Me
 
-- 📫 How to reach me **mouhcin.lahrech.dev@gmail.com**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/mouhcin-lahrech-425a8424b)](https://linkedin.com/in/mouhcin-lahrech-425a8424b)
+[![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=instagram&link=https://instagram.com/moh-sin-xd)](https://instagram.com/moh-sin-xd)
+[![YouTube](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&logo=youtube&link=https://youtube.com/@momonft)](https://youtube.com/@momonft)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/mo1726)](https://github.com/mo1726)
 
-<h3 align="left">Connect with me:</h3>
+📫 **Email:** mouhcin.lahrech.dev@gmail.com
+
+---
+
+### 🛠️ Technologies & Tools
+
 <p align="left">
-<a href="https://linkedin.com/in/mohsin lahrech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin lahrech" height="30" width="40" /></a>
-<a href="https://instagram.com/moh-sin-xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="moh-sin-xd" height="30" width="40" /></a>
-<a href="https://dribbble.com/lahrech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="lahrech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/momonft" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="momonft" height="30" width="40" /></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+---
 
+### 📦 Projects
 
-### 💻 Top Programming Languages
+| Project | Stack | Description |
+|--------|--------|-------------|
+| **[Bloom Cosmetic](https://github.com/mo1726/bloom-cosmetic-ecommerce)** | PHP + MySQL | Full e-commerce website with admin dashboard & coupon system |
+| **[ElitFit Platform](https://github.com/mo1726/elitfit-platform)** | React + Spring Boot + MySQL | Gym management app with admin, coach & member dashboards |
+| **[Truck Expense Manager](https://github.com/mo1726/truck-expense-manager)** | Java + React | Dashboard for tracking truck-related transactions, analytics, and filters |
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo1726&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 GitHub Activity
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo1726&layout=compact&theme=radical)](https://github.com/mo1726)
+
+---
+
+⏳ *Last updated: July 2025*
