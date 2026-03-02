@@ -1,21 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=200&section=header&text=Mouhcin%20Lahrech&fontSize=50&fontColor=00d4ff&fontAlignY=38&desc=Full%20Stack%20%26%20DevOps%20Developer%20%7C%20Morocco%20🇲🇦&descAlignY=60&descColor=ffffff&descSize=16" />
+# 👋 Hey, I'm Mouhcin Lahrech
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=⚡+Java+%2B+Spring+Boot+Engineer;⚛️+React+%26+Frontend+Developer;🐍+Python+Automation+%26+Scripting;🐳+Docker+%26+DevOps+Practitioner;🚀+Building+Real-World+SaaS+Products)](https://git.io/typing-svg)
+### 🇲🇦 Full Stack & DevOps Developer — Morocco
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=⚡+Java+%2B+Spring+Boot+Engineer;⚛️+React+%26+Frontend+Developer;🐍+Python+Automation+%26+Scripting;🐳+Docker+%26+DevOps+Practitioner;🚀+Building+Real-World+SaaS+Products)](https://git.io/typing-svg)
 
 <br/>
 
-![](https://komarev.com/ghpvc/?username=mo1726&color=00d4ff&style=flat-square&label=👁️+Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mouhcin-lahrech-425a8424b)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/mo1726)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mouhcin.lahrech.dev@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=mo1726&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/mo1726)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhcin-lahrech-425a8424b)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo1726)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mouhcin.lahrech.dev@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧠 About Me
 
 ```python
 class Developer:
@@ -33,30 +35,55 @@ class Developer:
 
 ## 🏗️ Featured Projects
 
-### 🏋️ ElitFit — Gym Management Platform
-> *React + Spring Boot + JWT + MySQL*
-
-> Dark, high-energy gym management system with role-based access, member stats, and activity tracking. Built with a full Spring Security backend and a modern React frontend.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mo1726/elitfit-platform)
-
----
-
-### 🛍️ Bloom Cosmetics — E-Commerce Shop
-> *PHP + MySQL + Bilingual (EN/AR)*
-
-> Clean, elegant cosmetics store featuring product listings, order forms, coupon support, and full Arabic/English localization.
-
-[![Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mo1726/bloom-cosmetic-ecommerce)
-
----
-
-### 🚛 Truck Expense Tracker *(Coming Soon)*
-> *Java + React + REST API*
-
-> Full-stack web application for transport companies to track fuel, maintenance, and trip expenses.
-
-![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏋️ ElitFit — Gym Platform</h3>
+      <p>Dark, high-energy gym management system with role-based access (Admin, Coach, Member), subscription plans, activity tracking, and JWT-secured Spring Boot backend.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mo1726/elitfit-platform">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛍️ Bloom Cosmetics — E-Commerce</h3>
+      <p>Elegant bilingual (EN/AR) cosmetics store with product catalog, order management, coupon system, and a warm, brand-consistent UI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      </p>
+      <a href="https://github.com/mo1726/bloom-cosmetic-ecommerce">
+        <img src="https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚛 Truck Expense Tracker <em>(Soon)</em></h3>
+      <p>Full-stack logistics app to track fuel, maintenance, and transport expenses with clean REST APIs and a React dashboard.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+      </p>
+      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🤖 More coming...</h3>
+      <p>Currently exploring AI-powered tools, Python automation scripts, and SaaS micro-products. Stay tuned!</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/AI_Tools-412991?style=flat-square&logo=openai&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -74,8 +101,8 @@ class Developer:
 **Frameworks & Libraries**
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 **Databases**
 
@@ -96,38 +123,32 @@ class Developer:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mo1726&show_icons=true&theme=tokyonight&border_color=00d4ff&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo1726&layout=compact&theme=tokyonight&border_color=00d4ff" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mo1726&show_icons=true&theme=tokyonight&border_color=00d4ff&include_all_commits=true&count_private=true&hide_border=false" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mo1726&layout=compact&theme=tokyonight&border_color=00d4ff&hide_border=false" />
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=mo1726&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b6b" />
+</div>
+
+<div align="center">
+
+<img width="60%" src="https://streak-stats.demolab.com/?user=mo1726&theme=tokyonight&border=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mo1726&theme=tokyonight&column=6&margin-w=10&no-bg=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mo1726&theme=tokyo-night&hide_border=true&area=true&color=00d4ff&line=00d4ff&point=ffffff)](https://github.com/mo1726)
 
 </div>
 
 ---
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mo1726&theme=tokyo-night&bg_color=1a1b27&color=00d4ff&line=00d4ff&point=ffffff&area=true)
-
-</div>
-
----
-
-<div align="center">
 
 ## 🔗 Let's Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhcin-lahrech-425a8424b)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mo1726)
@@ -137,6 +158,6 @@ class Developer:
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=120&section=footer&text=Keep+Building+·+Keep+Learning+·+Keep+Growing+💪&fontSize=14&fontColor=00d4ff&fontAlignY=65" />
+> *"Keep Building · Keep Learning · Keep Growing 💪"*
 
 </div>
